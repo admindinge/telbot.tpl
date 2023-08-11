@@ -1,6 +1,8 @@
-from telebot import types
 import telebot
-token='6421938969:AAFnmK88ngnOJkPxK4ITDL7m0kAyCkUsxSc'
+from telebot import types
+
+token='<აქ ჩაწერთ თქვენი ბოტის ტოკენს>'
+
 bot=telebot.TeleBot(token)
 
 @bot.message_handler(commands=['start'])

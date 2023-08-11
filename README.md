@@ -19,17 +19,17 @@
 
   #### Python ბიბლიოთეკები:
        
-   - [pyTelegramBotAPI](https://github.com/eternnoir/pyTelegramBotAPI);
+   - [pyTelegramBotAPI](https://github.com/eternnoir/pyTelegramBotAPI)
          
-   - [python-telegram-bot](https://github.com/python-telegram-bot/python-telegram-bot));
+   - [python-telegram-bot](https://github.com/python-telegram-bot/python-telegram-bot)
 
    - [aiogram](https://github.com/aiogram/aiogram)
   
   #### Node.js ბიბლიოთეკები:
    
-   - [telegraf](https://github.com/telegraf/telegraf);
+   - [telegraf](https://github.com/telegraf/telegraf)
 
-   - [node-telegram-bot-api](https://github.com/yagop/node-telegram-bot-api);
+   - [node-telegram-bot-api](https://github.com/yagop/node-telegram-bot-api)
   
   #### Go (Golang):
        
